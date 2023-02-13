@@ -1,2 +1,11 @@
 # primer
-первый
+#include <iostream>
+using namespace std;
+main()
+{
+   cout << "2+";   
+   cout << "2=?\n";   
+   cout << "Ответ: 4";
+   cin.get();
+}
+
